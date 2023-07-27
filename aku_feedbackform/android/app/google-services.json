@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "830442133750",
+    "project_id": "aku-feedbackform",
+    "storage_bucket": "aku-feedbackform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830442133750:android:dedf29dfc3fb890db434d7",
+        "android_client_info": {
+          "package_name": "com.example.aku_feedbackform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830442133750-s6qlo3fiafcofvkko3o94b5m2fmovstd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuMyHiRCdSwC8xlCqf5GF0XMFFJWtEuvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830442133750-s6qlo3fiafcofvkko3o94b5m2fmovstd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "830442133750-256os56jha1vnacrs38bm4li12t89h63.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akuFeedbackform"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
